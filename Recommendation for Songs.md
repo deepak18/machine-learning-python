@@ -9,13 +9,7 @@ import graphlab
 
 ```python
 song_data = graphlab.SFrame('song_data.gl/')
-```
-
-    This non-commercial license of GraphLab Create for academic use is assigned to surana.d@husky.neu.edu and will expire on February 16, 2018.
-    
-
-    [INFO] graphlab.cython.cy_server: GraphLab Create v2.1 started. Logging: C:\Users\deepa\AppData\Local\Temp\graphlab_server_1494467190.log.0
-    
+```    
 
 # Explore Data
 
@@ -922,7 +916,7 @@ else:
     Model compare metric: precision_recall
     
 
-
+![png](line_recall_precision.png)
 
 ## Counting no of unique users for different artists:
 
