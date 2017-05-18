@@ -29,8 +29,6 @@ sf = graphlab.SFrame('people-example.csv')
 ```
 
 
-<pre>Finished parsing file C:\Users\deepa\Machine Learning\Course 1\Week 1\people-example.csv</pre>
-
 
 
 <pre>Parsing completed. Parsed 7 lines in 0.04311 secs.</pre>
@@ -44,9 +42,6 @@ sf = graphlab.SFrame('people-example.csv')
     the column_type_hints argument
     ------------------------------------------------------
     
-
-
-<pre>Finished parsing file C:\Users\deepa\Machine Learning\Course 1\Week 1\people-example.csv</pre>
 
 
 
@@ -564,10 +559,3 @@ sf
 </table>
 [7 rows x 5 columns]<br/>
 </div>
-
-
-
-
-```python
-
-```
